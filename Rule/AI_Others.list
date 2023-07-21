@@ -21,6 +21,9 @@ DOMAIN-SUFFIX,heypi.com
 // 关于 Poe
 DOMAIN-SUFFIX,poe.com
 
+// 关于 perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
+
 // 关于 Notion
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
