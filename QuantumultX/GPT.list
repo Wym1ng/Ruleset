@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,heypi.com
 
 # Poe
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,quoracdn.net
 
 # perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
