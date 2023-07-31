@@ -1,0 +1,42 @@
+# NAME: GPT
+# AUTHOR: wym1ng
+# REPO: https://github.com/Wym1ng/Ruleset/blob/main/QuantumultX/GPT
+# UPDATED: 2023-07-31 22:50:18
+
+# CHATGPT
+HOST-SUFFIX,ai.com,GPT
+HOST-SUFFIX,auth0.com,GPT
+HOST-SUFFIX,challenges.cloudflare.com,GPT
+HOST-SUFFIX,client-api.arkoselabs.com,GPT
+HOST-SUFFIX,events.statsigapi.net,GPT
+HOST-SUFFIX,featuregates.org,GPT
+HOST-SUFFIX,identrust.com,GPT
+HOST-SUFFIX,intercom.io,GPT
+HOST-SUFFIX,intercomcdn.com,GPT
+HOST-SUFFIX,sentry.io,GPT
+HOST-SUFFIX,stripe.com,GPT
+HOST-KEYWORD,openai,GPT
+
+# Claude
+HOST,cdn.usefathom.com,GPT
+HOST-SUFFIX,anthropic.com,GPT
+HOST-SUFFIX,claude.ai,GPT
+
+# Google Bard
+HOST-SUFFIX,bard.google.com,GPT
+
+# Pi
+DOMAIN-SUFFIX,heypi.com
+
+# Poe
+DOMAIN-SUFFIX,poe.com
+
+# perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
+
+# Notion
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
