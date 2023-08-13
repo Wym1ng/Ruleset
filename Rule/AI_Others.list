@@ -1,16 +1,13 @@
 // 关于 OpenAI, ChatGPT 补充
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,js.intercomcdn.com
-DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,platform.openai.com
-DONAIN-SUFFIX,statsigapi.net
-DOMAIN,challenges.cloudflare.com
+DOMAIN-SUFFIX,pay.openai.com
+DOMAIN-SUFFIX,api.openai.com
 
-// 关于 Claude
-DOMAIN-SUFFIX,claude.ai
+// 关于 Claude (已单独新增list)
 
 // 关于 Google Bard
 DOMAIN-SUFFIX,bard.google.com
@@ -18,8 +15,7 @@ DOMAIN-SUFFIX,bard.google.com
 // 关于 Pi
 DOMAIN-SUFFIX,heypi.com
 
-// 关于 Poe
-DOMAIN-SUFFIX,poe.com
+// 关于 Poe (已涵盖在ChatGPT list)
 
 // 关于 perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
@@ -31,4 +27,4 @@ DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 
-//以上规则部分整理于https://www.justgoidea.com/2023-043
+//以上ChatGPT部分规则整理于https://www.justgoidea.com/2023-043
