@@ -11,8 +11,15 @@ DOMAIN-SUFFIX,oaiusercontent.com
 
 // 关于 Claude (已单独新增list)
 
-// 关于 Google Bard
-DOMAIN-SUFFIX,bard.google.com
+// 关于 Google Bard (已单独新增list)
+
+// #ciciAI
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,vmweb-va.ciciai.com
+DOMAIN-SUFFIX,mcs-va.ciciai.com
+DOMAIN-SUFFIX,lf-rc1.yhgfb-static.com
+DOMAIN-SUFFIX,itobsnssdk.com
 
 // 关于 Pi
 DOMAIN-SUFFIX,heypi.com
